@@ -15,5 +15,5 @@ The report also includes interactive features such as slicers and filters that a
 # Usage
 To use this Power BI report, you can download the project files from the GitHub repository and open the .pbix file in Power BI Desktop. The report can be filtered and explored using the various visualizations and slicers.
 
-Contributing
+# Contributing
 Contributions to this Power BI project are welcome. If you have any suggestions, feedback, or issues with the project, please feel free to open an issue or pull request on the GitHub repository.
